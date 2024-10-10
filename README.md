@@ -107,6 +107,7 @@ Incorporate security and surveillance-resistant features into the design from th
 o Walls: Use double-layered walls with an air gap in between, filled with high-density insulation material (e.g., mineral wool or soundproofing foam). Add soundproof panels or dense materials like mass-loaded vinyl (MLV) to block sound transmission.
 o Doors and Windows: Install soundproof doors with seals around the edges and multi-pane, laminated windows designed to block sound. For extra security, include acoustic curtains or soundproof window films.
 o Floors and Ceilings: Lay vibration-dampening materials such as rubber underlayment’s or soundproofing mats beneath flooring. Add insulation to ceilings to block sound from room to room.
+
 • White Noise Generators:
 o Place white noise machines in sensitive areas like meeting rooms, offices, or bedrooms. These devices should generate varying frequencies of sound to mask conversations and block surveillance microphones.
 o Integrate an active noise masking system into the HVAC ducts, ceilings, or walls, which continuously creates white noise across the building.
