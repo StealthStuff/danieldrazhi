@@ -132,7 +132,7 @@ These techniques are crucial for organizations, military operations, and governm
 privacy intrusions from highly capable adversaries using sophisticated surveillance methods.
 
 
-# 2. Building a house with comprehensive protection against acoustic, electromagnetic, and vibration-based surveillance.
+# 2. Constructing a building with comprehensive protection against acoustic, electromagnetic, and vibration-based surveillance.
 
 ## 1. Site Selection and Initial Planning
 
